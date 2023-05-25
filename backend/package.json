@@ -1,0 +1,14 @@
+{
+  "name": "backend",
+  "version": "0.1.0",
+  "description": "ccf backend service",
+  "main": "server.js",
+  "scripts": {
+    "start": "node ./src/server.js"
+  },
+  "author": "Lachlan Jowett",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
